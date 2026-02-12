@@ -140,6 +140,11 @@ Material
 - https://portswigger.net/web-security/cors#what-is-cors-cross-origin-resource-sharing
 - https://portswigger.net/web-security/csrf
 
+Hands on
+
+- https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf
+- https://portswigger.net/web-security/all-labs#cross-origin-resource-sharing-cors
+
 ---
 
 # Sever side vulnerabilities
